@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Workout Beaver": {
+            "applicationId": "JdJ1QQy8y9ILXU9d9Nm2hjdocC2yJ0rlmoaQRKnH", 
+            "masterKey": "UnaIyACg4j0oMuGMHJnWBKbQFh4unCaj03iS36tZ"
+        }, 
+        "_default": {
+            "link": "Workout Beaver"
+        }
+    }
+}
